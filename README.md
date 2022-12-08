@@ -10,7 +10,7 @@ Including:
 
 4. Link layer: CSMA simulator, evaluate its performance.
 
-Usage
+Usage:
 
 1. `make` to complie the code.
 
